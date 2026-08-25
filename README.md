@@ -14,11 +14,14 @@
 1. **Carga y exploración de datos:** Lectura del archivo CSV y visualización de la estructura inicial.
 2. **Limpieza de datos:** Tratamiento de valores nulos, duplicados y conversión de tipos de datos.
 3. **Análisis Exploratorio de Datos (EDA):** Identificación de variables clave asociadas a la rotación del personal.
-4. **Visualización:** Creación de gráficos estadísticos para representar tendencias e impactos.
-5. **Conclusiones:** Resumen de hallazgos para la toma de decisiones estratégicas en Recursos Humanos.
+4. **Visualización de la estructura inicial:** Creación de gráficos estadísticos para representar tendencias e impactos.
+5. **Modelado y Business Intelligence:** Diseño de tableros interactivos y automatización de KPIs para el seguimiento del análisis.
+6. **Conclusiones:** Resumen de hallazgos para la toma de decisiones estratégicas en Recursos Humanos.
 
 ## Tecnologías Utilizadas
 * **Lenguaje:** Python
-* **Librerías de manipulación de datos:** Pandas
-* **Librerías de visualización:** Matplotlib y Seaborn
-* **Entorno de desarrollo:** Google Colab
+* **Manipulación de datos:** Pandas
+* **Visualización estadística:** Matplotlib y Seaborn
+* **Business Intelligence:** Power BI (dashboards e indicadores clave)
+* **Entorno de desarrollo:** Google Colab y Power BI Desktop
+
